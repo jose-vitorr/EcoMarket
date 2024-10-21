@@ -25,3 +25,4 @@ Mapa mental do projeto:
 
 Vídeo:
 
+Idealizadores do projeto: José Vitor, Paulo Cesar, Riquelme Santos.
