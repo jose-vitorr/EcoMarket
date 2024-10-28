@@ -1,0 +1,69 @@
+# Briefing para o Sistema de Gerenciamento Escolar Municipal (EMEF's)
+
+1. Informações Gerais
+Cliente: Rede Municipal de Ensino (EMEF's)
+Nome do Projeto: Sistema de Gerenciamento Escolar
+Objetivo do Projeto: Desenvolver um sistema escalável para auxiliar a administração das escolas municipais, abrangendo desde o 1° período do ensino infantil até o 9° ano do ensino fundamental.
+
+2. Objetivos do Sistema
+Criar uma plataforma centralizada que possibilite o gerenciamento eficiente de informações sobre alunos, funcionários e processos administrativos.
+Automatizar a transição anual de alunos para a série seguinte com base no status de aprovação determinado pelas notas e frequência.
+Disponibilizar funcionalidades específicas para cada tipo de usuário (administradores, professores, supervisores, pais e alunos), respeitando o nível de acesso e as permissões adequadas.
+Promover a comunicação interna da escola por meio de um mural de notícias na página inicial do sistema.
+
+3. Público-Alvo
+Principais Usuários:
+Administração Escolar: Diretores, coordenadores e supervisores.
+Professores: Responsáveis pelo cadastro e atualização de notas e frequência dos alunos.
+Funcionários de Apoio: Zeladores, estagiários e outros com permissões limitadas.
+Alunos e Pais: Com acesso ao portal para visualizar informações sobre o desempenho acadêmico, frequência e comunicados da escola.
+
+4. Funcionalidades Principais
+Banco de Dados Centralizado:
+Cadastro completo dos alunos com histórico acadêmico, frequência e notas.
+Quadro completo de funcionários com informações pessoais e níveis de acesso.
+Capacidade de segmentação para consulta por aluno, sala ou série.
+
+Módulo Acadêmico:
+Atualização automática da série dos alunos com base no status de aprovação.
+Registro e consulta de notas e frequência para cada aluno.
+
+Portal para Pais e Alunos:
+Acesso para visualização de notas, frequência e status acadêmico.
+Notificações sobre eventos escolares e atualizações relevantes.
+
+Mural de Notícias:
+Página inicial com avisos gerais, comunicados e eventos importantes.
+
+Níveis de Acesso e Permissões:
+Sistema de autenticação com controle de permissões baseado no cargo de cada usuário.
+
+5. Diferenciais e Benefícios
+Escalabilidade: Estrutura do sistema pensada para acomodar o crescimento em número de alunos e demais escolas do município.
+Automação e Eficiência: Redução do trabalho manual com a atualização automática de séries e geração de relatórios.
+Comunicação e Transparência: Canal direto para a comunicação com pais e responsáveis, melhorando o relacionamento escola-família.
+Segurança de Dados: Autenticação segura e níveis de permissão diferenciados para proteger dados sensíveis.
+
+6. Estrutura do Projeto e Tecnologias
+Front-End: Interface intuitiva e responsiva para facilitar o uso em diversos dispositivos. Provavelmente em uma versão Web.
+Back-End: APIs e banco de dados relacional para gerenciamento eficiente das informações.
+Banco de Dados: Estrutura em SQL ou outro banco relacional, considerando otimização para consultas complexas e escalabilidade.
+Segurança e Autenticação: Implementação de protocolos de segurança para proteger informações pessoais e acadêmicas.
+
+7. Cronograma e Prazos
+Etapa de Planejamento e Design: [A definir]
+Desenvolvimento do Back-End e Banco de Dados: [A definir]
+Desenvolvimento do Front-End: [A definir]
+Testes e Integração: [A definir]
+Treinamento e Implementação: [A definir]
+Lançamento e Suporte Inicial: [A definir]
+Total Estimado: [A definir] 
+
+8. Suporte e Manutenção
+Atualizações Periódicas: Melhorias de segurança e novos recursos.
+Suporte Técnico: Atendimento para resolução de problemas técnicos e suporte ao usuário.
+
+9. Orçamento e Recursos Necessários
+Orçamento Estimado: [Definir com o cliente]
+Recursos Humanos: Desenvolvedores de software, designers, analistas de sistemas, equipe de suporte.
+Outros Recursos: Infraestrutura para armazenamento de dados e servidores, dependendo da escala do sistema.
