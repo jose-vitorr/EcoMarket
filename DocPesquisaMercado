@@ -1,0 +1,63 @@
+Documento de Pesquisa de Mercado
+1. Objetivo da Pesquisa
+Objetivo Geral: Avaliar o alinhamento do sistema de gerenciamento escolar proposto com as metas e prioridades educacionais do município de Timon-MA, considerando os planos e compromissos atuais e futuros do governo local.
+
+Objetivos Específicos:
+Analisar o plano de governo atual e as propostas do futuro prefeito, Rafael, em relação ao setor educacional.
+Identificar as necessidades educacionais da rede municipal, desde o ensino infantil até o fundamental.
+Verificar a viabilidade de uma parceria público-privada para a implementação do sistema proposto.
+
+2. Análise do Contexto Municipal de Timon-MA
+Educação Pública Municipal:
+Timon, localizada no Maranhão, é uma cidade com uma rede significativa de escolas municipais (EMEF's), atendendo desde o 1° período do ensino infantil até o 9° ano do ensino fundamental.
+O município enfrenta desafios comuns às redes públicas, como a necessidade de melhorar os índices de aprovação, aumentar a frequência dos alunos e fortalecer a comunicação entre escola e família.
+A infraestrutura tecnológica em algumas escolas ainda é limitada, o que demanda atenção para garantir que novas soluções sejam aplicáveis em todas as unidades escolares.
+
+3. Análise dos Planos de Governo e Propostas do Futuro Prefeito Rafael
+Prioridades do Governo Atual e Futuro para a Educação:
+Tecnologia e Inovação: Rafael enfatizou em suas campanhas a importância de modernizar a educação municipal com soluções tecnológicas que facilitem a administração e o acompanhamento do desempenho dos alunos.
+Apoio à Transparência e Participação Familiar: Um dos pilares das propostas do futuro prefeito é fortalecer a transparência e permitir que pais e alunos tenham mais acesso à vida escolar, incentivando um maior envolvimento dos responsáveis.
+Eficiência Administrativa: A modernização dos processos internos na rede escolar é outro compromisso mencionado, incluindo a simplificação de cadastros, controle de frequência, e monitoramento de desempenho.
+Capacitação e Acompanhamento Docente: Incentivar um sistema de monitoramento que possibilite a formação contínua de professores e a supervisão de atividades pedagógicas, visando uma gestão mais integrada.
+
+4. Necessidades Educacionais do Município
+Automatização de Processos Acadêmicos e Administrativos:
+Timon tem uma demanda significativa por soluções que otimizem a gestão escolar, como o controle de matrículas, transferência automática de alunos para séries subsequentes, e monitoramento de frequência e desempenho.
+A necessidade de um sistema centralizado para reunir as informações dos alunos e funcionários é apontada como uma solução que pode reduzir a burocracia e aumentar a eficiência.
+Acesso à Informação e Transparência:
+
+Garantir que pais e alunos possam acessar informações sobre o rendimento e frequência em tempo real reforça o compromisso da prefeitura com a transparência e aproxima a comunidade escolar.
+Um mural de notícias digital pode facilitar a comunicação direta sobre eventos, notas e outras informações importantes.
+Relatórios e Indicadores de Qualidade:
+
+Os relatórios acadêmicos detalhados sobre frequência, notas e aprovação podem ajudar a Secretaria de Educação a monitorar melhor o rendimento da rede, direcionando recursos para áreas de maior necessidade.
+
+5. Benefícios do Sistema de Gerenciamento Escolar para o Município de Timon-MA
+Para a Prefeitura e o Setor Educacional:
+Apoio à tomada de decisão com dados centralizados, relatórios detalhados e maior controle sobre o desempenho escolar e a taxa de frequência.
+Eficiência Operacional: Menos trabalho manual e redução de burocracia administrativa, especialmente em processos anuais como matrículas e transferências.
+Satisfação e Envolvimento Familiar: Um portal de acesso para pais e alunos melhora a experiência e facilita o envolvimento familiar no desenvolvimento acadêmico dos estudantes.
+Para Alunos e Pais:
+Facilidade de acesso às informações: Permite que os pais acompanhem as notas, a frequência e os avisos escolares, incentivando o engajamento dos alunos.
+Suporte à Comunicação: O mural de notícias e o sistema de notificações aumentam a comunicação direta entre a escola e as famílias, possibilitando uma relação mais próxima com a comunidade escolar.
+
+6. Proposta de Parceria Público-Privada
+Modelo de Parceria:
+Oferecer uma prova de conceito (PoC) gratuita em algumas escolas-piloto para demonstrar os benefícios do sistema antes da implementação completa.
+Possibilidades de financiamento: Explorar oportunidades de financiamento público e privado, incluindo recursos municipais e estaduais, ou parcerias com empresas interessadas na responsabilidade social educacional.
+Responsabilidades da Prefeitura:
+
+Disponibilizar a infraestrutura básica e o suporte necessário em cada escola para a implementação do sistema.
+Colaborar com os dados cadastrais dos alunos e funcionários para inicializar o banco de dados de maneira adequada.
+Responsabilidades do Desenvolvedor do Sistema:
+
+Fornecer uma solução escalável, customizável e com suporte técnico contínuo.
+Capacitar os professores e administradores escolares para o uso eficiente da plataforma.
+
+7. Conclusão
+Potencial de Impacto: Com base nas demandas educacionais de Timon-MA e nas propostas do futuro prefeito, o sistema de gerenciamento escolar atenderia a uma necessidade clara de modernização da administração escolar, transparência e eficiência.
+
+Próximos Passos:
+Agendar uma reunião com representantes da Secretaria de Educação e da equipe de transição do futuro prefeito Rafael para discutir a viabilidade e estruturação da parceria.
+Desenvolver um protótipo ou versão demo para apresentação à equipe governamental, destacando os recursos alinhados às metas do plano de governo.
+Elaborar uma proposta de cronograma e orçamento para implementação inicial e expansão gradual.
