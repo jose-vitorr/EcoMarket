@@ -72,7 +72,7 @@ Notificações: Avisos sobre reuniões, entregas de boletins e eventos escolares
 2.3 - Relatórios de desempenho por aluno, sala ou série, acessíveis para a administração e professores.
     
 3. Mural de Notícias e Comunicados:
-3.1 - Mural na página inicial com comunicados e avisos.
+3.1 - Mural na página inicial com comunicados e avisos
 3.2 - Notificações e mensagens sobre eventos escolares, reuniões e informações importantes para pais e alunos.
     
 4. Portal para Pais e Alunos:
