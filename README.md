@@ -60,36 +60,48 @@ Facilidade de Acesso: Portal amigável, facilitando o acompanhamento da vida esc
 Personas
 
 Persona 1: Maria Silva – Diretora Escolar
-Idade: 50 anos
-Cargo: Diretora da Escola Municipal Dom Bosco
-Habilidades Tecnológicas: Intermediária, com experiência básica em planilhas e sistemas escolares.
-Objetivos:
-Reduzir o tempo gasto em tarefas administrativas.
-Acompanhar o desempenho e frequência dos alunos de maneira centralizada.
-Facilitar a comunicação com professores, pais e alunos.
-Frustrações:
-Lidar com processos manuais que tomam tempo e dificultam o acompanhamento da escola.
-Dependência de papéis e documentos físicos, que podem ser facilmente perdidos ou esquecidos.
-Como o SGE Ajuda:
-Automatiza processos de promoção de alunos e geração de relatórios.
-Centraliza informações de alunos e funcionários, facilitando consultas e gerenciamento.
-Garante uma comunicação direta com a comunidade escolar por meio do mural de notícias.
+
+> Idade: 50 anos
+
+> Cargo: Diretora da Escola Municipal Nazaré Rodrigues
+
+> Habilidades Tecnológicas: Intermediária, com experiência básica em planilhas e sistemas escolares.
+
+- Objetivos:
+1. Reduzir o tempo gasto em tarefas administrativas.
+2. Acompanhar o desempenho e frequência dos alunos de maneira centralizada.
+3. Facilitar a comunicação com professores, pais e alunos.
+
+- Frustrações:
+1. Lidar com processos manuais que tomam tempo e dificultam o acompanhamento da escola.
+2. Dependência de papéis e documentos físicos, que podem ser facilmente perdidos ou esquecidos.
+
+- Como o SGE Ajuda:
+1. Automatiza processos de promoção de alunos e geração de relatórios.
+2. Centraliza informações de alunos e funcionários, facilitando consultas e gerenciamento.
+3. Garante uma comunicação direta com a comunidade escolar por meio do mural de notícias.
 
 Persona 2: Carla Souza – Mãe de Aluno
-Idade: 40 anos
-Ocupação: Comerciante autônoma
-Habilidades Tecnológicas: Básicas, usa celular para acessar redes sociais e fazer pagamentos.
-Objetivos:
-Acompanhar de perto o desempenho escolar do filho.
-Receber notificações sobre frequência e eventos importantes da escola.
-Ter fácil acesso às informações sobre notas, frequência e comunicados da escola.
-Frustrações:
-Falta de comunicação direta com a escola e dificuldades para acessar informações sobre o desempenho do filho.
-Tempo limitado para ir presencialmente à escola para reuniões e comunicados.
-Como o SGE Ajuda:
-Fornece um portal prático e acessível onde ela pode acompanhar as notas, frequência e atualizações do filho.
-Recebe notificações e comunicados pelo mural de notícias, mantendo-a informada sobre a vida escolar do filho.
-Facilita o acompanhamento sem a necessidade de deslocamento, ajustando-se à sua rotina.
+
+> Idade: 40 anos
+
+> Ocupação: Comerciante autônoma
+
+> Habilidades Tecnológicas: Básicas, usa celular para acessar redes sociais e fazer pagamentos.
+
+- Objetivos:
+1. Acompanhar de perto o desempenho escolar do filho.
+2. Receber notificações sobre frequência e eventos importantes da escola.
+3. Ter fácil acesso às informações sobre notas, frequência e comunicados da escola.
+   
+- Frustrações:
+1. Falta de comunicação direta com a escola e dificuldades para acessar informações sobre o desempenho do filho.
+2. Tempo limitado para ir presencialmente à escola para reuniões e comunicados.
+
+- Como o SGE Ajuda:
+1. Fornece um portal prático e acessível onde ela pode acompanhar as notas, frequência e atualizações do filho.
+2. Recebe notificações e comunicados pelo mural de notícias, mantendo-a informada sobre a vida escolar do filho.
+3. Facilita o acompanhamento sem a necessidade de deslocamento, ajustando-se à sua rotina.
 
 
 Idealizadores do projeto: José Vitor e Riquelme Santos.
