@@ -1,7 +1,9 @@
 # Sistema Unificado da Educação Municipal
+
+- Alinhamento de ideias:
 A ideia do projeto é criar um sistema de gestão escolar escalável, sua principal função é facilitar o cotidiano dos colaborades da educação, já que o controle de alunos e demais processos fundamentais para o correto funcionamento de uma escola ainda é guaradado em pastas físicas, dificultando atividades simples como a busca de um aluno específico em meio a vasta de gama de outros arquivos.
 
-1. Banco de Dados e Gerenciamento de Usuários
+- 1. Gerenciamento de Usuários
 Alunos: Cadastro completo com informações pessoais, série, frequência, histórico de notas, e status de aprovação.
 Funcionários: Registro de funcionários com dados pessoais, cargo, e permissões de acesso.
 Perfis de Acesso:
@@ -10,50 +12,48 @@ Funcionários de apoio (como zeladores): Permissão limitada para acessar apenas
 Professores: Acesso para atualizar notas, frequência e consultar alunos por sala.
 Direção e Supervisão: Acesso para visualização completa e relatórios de progresso escolar e frequência.
 
-2. Gestão Acadêmica
+- 2. Gestão Acadêmica
 Matrícula e Atualização Automática de Série: Ao final do ano letivo, um processo automatizado que atualiza a série dos alunos com base nas notas e na frequência.
 Controle de Frequência e Notas: Módulo para que os professores registrem frequência e notas por aluno e por disciplina.
 Relatórios Acadêmicos: Geração de relatórios individuais, por sala ou série.
 
-3. Mural de Notícias
+- 3. Mural de Notícias
 Página Inicial: Exibição de avisos gerais, novidades, eventos e atualizações.
 Acesso Personalizado: Permitir que notícias e avisos sejam visualizados conforme o nível de permissão.
 
-4. Acesso para Pais e Alunos
+- 4. Acesso para Pais e Alunos
 Portal para Pais e Alunos: Interface para visualizar notas, frequência, e status de aprovação do aluno.
 Notificações: Avisos sobre reuniões, entregas de boletins e eventos escolares.
 
-  
-De maneira simples, essa será a estrutura inicial do projeto. Uma espécie de "AVA" que era implementado na época da pandemia nas escolas.
+* De maneira simples, essa será a estrutura inicial do projeto. Uma espécie de "AVA" que era implementado na época da pandemia nas escolas.
 
-A prototipação é ainda está sendo pensada se será no formato de aplicativo móvel ou web, mas de certo que terá uma interface interativa simplificada e intuitiva para o usuário.
+* A prototipação é ainda está sendo pensada se será no formato de aplicativo móvel ou web, mas de certo que terá uma interface interativa simplificada e intuitiva para o usuário.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-CAIXA DO PRODUTO
+- CAIXA DO PRODUTO
 
-Nome do produto
-SUEM
+> Nome do produto
+SGE
 
-Slogan
+> Slogan
 "Compromisso com a educação"
 
-Benefícios:
-Para Gestores e Diretores:
+> Benefícios:
+- Para Gestores e Diretores:
+1. Automação de Processos: Reduz a carga administrativa com automação de registros de frequência, notas e promoção de séries.
+2. Relatórios e Análises: Gera relatórios detalhados para apoio na tomada de decisão.
+3. Eficiência e Centralização: Todas as informações em um único sistema, melhorando o controle e a organização.
 
-Automação de Processos: Reduz a carga administrativa com automação de registros de frequência, notas e promoção de séries.
-Relatórios e Análises: Gera relatórios detalhados para apoio na tomada de decisão.
-Eficiência e Centralização: Todas as informações em um único sistema, melhorando o controle e a organização.
-Para Professores:
+- Para Professores:
+1. Lançamento Simplificado de Notas e Frequência: Plataforma intuitiva para atualização de dados acadêmicos.
+2. Transparência com Pais e Alunos: Facilita a comunicação, mantendo todos informados sobre o desempenho dos alunos.
+3. Acesso Rápido ao Histórico dos Alunos: Facilidade para acompanhar o histórico de cada aluno, desde o desempenho até a frequência.
 
-Lançamento Simplificado de Notas e Frequência: Plataforma intuitiva para atualização de dados acadêmicos.
-Transparência com Pais e Alunos: Facilita a comunicação, mantendo todos informados sobre o desempenho dos alunos.
-Acesso Rápido ao Histórico dos Alunos: Facilidade para acompanhar o histórico de cada aluno, desde o desempenho até a frequência.
-Para Alunos e Pais:
-
-Transparência e Acompanhamento em Tempo Real: Acesso direto ao desempenho e frequência, incentivando maior engajamento.
-Notificações e Mural de Notícias: Atualizações e comunicados importantes acessíveis a qualquer momento.
-Facilidade de Acesso: Portal amigável, facilitando o acompanhamento da vida escolar.
+- Para Alunos e Pais:
+1. Transparência e Acompanhamento em Tempo Real: Acesso direto ao desempenho e frequência, incentivando maior engajamento.
+2. Notificações e Mural de Notícias: Atualizações e comunicados importantes acessíveis a qualquer momento.
+3. Facilidade de Acesso: Portal amigável, facilitando o acompanhamento da vida escolar.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
