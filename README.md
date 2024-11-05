@@ -34,10 +34,10 @@ Notificações: Avisos sobre reuniões, entregas de boletins e eventos escolares
 - CAIXA DO PRODUTO
 
 > Nome do produto
-SGE
+- SGE (Sistema de Gestão Escolar).
 
 > Slogan
-"Compromisso com a educação"
+- "Educação conectada, gestão simplificada"
 
 > Benefícios:
 - Para Gestores e Diretores:
