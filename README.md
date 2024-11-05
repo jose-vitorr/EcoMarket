@@ -63,21 +63,21 @@ Notificações: Avisos sobre reuniões, entregas de boletins e eventos escolares
 > Funcionalidades:
 
 1. Cadastro e Controle de Alunos e Funcionários:
-1.1 - Cadastro completo dos alunos, com histórico acadêmico e informações de contato.
-1.2 - Registro e controle dos funcionários, incluindo professores, diretores e funcionários de apoio.
+   - Cadastro completo dos alunos, com histórico acadêmico e informações de contato.
+   - Registro e controle dos funcionários, incluindo professores, diretores e funcionários de apoio.
     
-2. Gerenciamento Acadêmico:
-2.1 - Lançamento de notas e frequência por parte dos professores.
-2.2 - Atualização automática de série de acordo com o status de aprovação do aluno.
-2.3 - Relatórios de desempenho por aluno, sala ou série, acessíveis para a administração e professores.
+3. Gerenciamento Acadêmico:
+   - Lançamento de notas e frequência por parte dos professores.
+   - Atualização automática de série de acordo com o status de aprovação do aluno.
+   - Relatórios de desempenho por aluno, sala ou série, acessíveis para a administração e professores.
     
-3. Mural de Notícias e Comunicados:
-3.1 - Mural na página inicial com comunicados e avisos
-3.2 - Notificações e mensagens sobre eventos escolares, reuniões e informações importantes para pais e alunos.
+4. Mural de Notícias e Comunicados:
+   - Mural na página inicial com comunicados e avisos
+   - Notificações e mensagens sobre eventos escolares, reuniões e informações importantes para pais e alunos.
     
-4. Portal para Pais e Alunos:
-4.1 - Interface dedicada para que pais e alunos possam consultar notas, frequência e status de aprovação.
-4.2 - Sistema de notificações e comunicados personalizados, reforçando a relação escola-comunidade.
+5. Portal para Pais e Alunos:
+   - Interface dedicada para que pais e alunos possam consultar notas, frequência e status de aprovação.
+   - Sistema de notificações e comunicados personalizados, reforçando a relação escola-comunidade.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Personas
