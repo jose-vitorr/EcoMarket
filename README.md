@@ -104,4 +104,6 @@ Persona 2: Carla Souza – Mãe de Aluno
 3. Facilita o acompanhamento sem a necessidade de deslocamento, ajustando-se à sua rotina.
 
 
-Idealizadores do projeto: José Vitor e Riquelme Santos.
+> Idealizadores do projeto: 
+- José Vitor
+- Riquelme Santos.
