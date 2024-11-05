@@ -29,8 +29,11 @@ Notificações: Avisos sobre reuniões, entregas de boletins e eventos escolares
 
 * A prototipação é ainda está sendo pensada se será no formato de aplicativo móvel ou web, mas de certo que terá uma interface interativa simplificada e intuitiva para o usuário.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------Artefatos
-1. [Briefing](https://github.com/jose-vitorr/SUEM/blob/main/BriefingDocument) 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------> Artefatos
+1. [Briefing](https://github.com/jose-vitorr/SUEM/blob/main/BriefingDocument)
+2. [Pesquisa de mercado](https://github.com/jose-vitorr/SUEM/blob/main/DocPesquisaMercado)
+3. [Documento de visão de produto](https://github.com/jose-vitorr/SUEM/blob/main/DocVisaoProduto)
+4. [Matriz](https://github.com/jose-vitorr/SUEM/blob/main/MatrizEouNao_FazNFaz)
  
 - CAIXA DO PRODUTO
 
@@ -56,6 +59,24 @@ Notificações: Avisos sobre reuniões, entregas de boletins e eventos escolares
 2. Notificações e Mural de Notícias: Atualizações e comunicados importantes acessíveis a qualquer momento.
 3. Facilidade de Acesso: Portal amigável, facilitando o acompanhamento da vida escolar.
 
+> Funcionalidades:
+
+1. Cadastro e Controle de Alunos e Funcionários:
+1.1 - Cadastro completo dos alunos, com histórico acadêmico e informações de contato.
+1.2 - Registro e controle dos funcionários, incluindo professores, diretores e funcionários de apoio.
+    
+2. Gerenciamento Acadêmico:
+2.1 - Lançamento de notas e frequência por parte dos professores.
+2.2 - Atualização automática de série de acordo com o status de aprovação do aluno.
+2.3 - Relatórios de desempenho por aluno, sala ou série, acessíveis para a administração e professores.
+    
+3. Mural de Notícias e Comunicados:
+3.1 - Mural na página inicial com comunicados e avisos.
+3.2 - Notificações e mensagens sobre eventos escolares, reuniões e informações importantes para pais e alunos.
+    
+4. Portal para Pais e Alunos:
+4.1 - Interface dedicada para que pais e alunos possam consultar notas, frequência e status de aprovação.
+4.2 - Sistema de notificações e comunicados personalizados, reforçando a relação escola-comunidade.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Personas
