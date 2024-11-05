@@ -23,17 +23,73 @@ Acesso Personalizado: Permitir que notícias e avisos sejam visualizados conform
 Portal para Pais e Alunos: Interface para visualizar notas, frequência, e status de aprovação do aluno.
 Notificações: Avisos sobre reuniões, entregas de boletins e eventos escolares.
 
-5. Segurança e Permissões
-Gerenciamento de Sessões e Logins: Autenticação segura para garantir que somente usuários autorizados tenham acesso a determinadas informações.
-Controle de Auditoria: Registro de ações realizadas por administradores e professores para segurança e transparência.
   
 De maneira simples, essa será a estrutura inicial do projeto. Uma espécie de "AVA" que era implementado na época da pandemia nas escolas.
 
 A prototipação é ainda está sendo pensada se será no formato de aplicativo móvel ou web, mas de certo que terá uma interface interativa simplificada e intuitiva para o usuário.
 
-Mapa mental do projeto:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+CAIXA DO PRODUTO
 
+Nome do produto
+SUEM
 
-Link do vídeo:
+Slogan
+"Compromisso com a educação"
+
+Benefícios:
+Para Gestores e Diretores:
+
+Automação de Processos: Reduz a carga administrativa com automação de registros de frequência, notas e promoção de séries.
+Relatórios e Análises: Gera relatórios detalhados para apoio na tomada de decisão.
+Eficiência e Centralização: Todas as informações em um único sistema, melhorando o controle e a organização.
+Para Professores:
+
+Lançamento Simplificado de Notas e Frequência: Plataforma intuitiva para atualização de dados acadêmicos.
+Transparência com Pais e Alunos: Facilita a comunicação, mantendo todos informados sobre o desempenho dos alunos.
+Acesso Rápido ao Histórico dos Alunos: Facilidade para acompanhar o histórico de cada aluno, desde o desempenho até a frequência.
+Para Alunos e Pais:
+
+Transparência e Acompanhamento em Tempo Real: Acesso direto ao desempenho e frequência, incentivando maior engajamento.
+Notificações e Mural de Notícias: Atualizações e comunicados importantes acessíveis a qualquer momento.
+Facilidade de Acesso: Portal amigável, facilitando o acompanhamento da vida escolar.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Personas
+
+Persona 1: Maria Silva – Diretora Escolar
+Idade: 50 anos
+Cargo: Diretora da Escola Municipal Dom Bosco
+Habilidades Tecnológicas: Intermediária, com experiência básica em planilhas e sistemas escolares.
+Objetivos:
+Reduzir o tempo gasto em tarefas administrativas.
+Acompanhar o desempenho e frequência dos alunos de maneira centralizada.
+Facilitar a comunicação com professores, pais e alunos.
+Frustrações:
+Lidar com processos manuais que tomam tempo e dificultam o acompanhamento da escola.
+Dependência de papéis e documentos físicos, que podem ser facilmente perdidos ou esquecidos.
+Como o SGE Ajuda:
+Automatiza processos de promoção de alunos e geração de relatórios.
+Centraliza informações de alunos e funcionários, facilitando consultas e gerenciamento.
+Garante uma comunicação direta com a comunidade escolar por meio do mural de notícias.
+
+Persona 2: Carla Souza – Mãe de Aluno
+Idade: 40 anos
+Ocupação: Comerciante autônoma
+Habilidades Tecnológicas: Básicas, usa celular para acessar redes sociais e fazer pagamentos.
+Objetivos:
+Acompanhar de perto o desempenho escolar do filho.
+Receber notificações sobre frequência e eventos importantes da escola.
+Ter fácil acesso às informações sobre notas, frequência e comunicados da escola.
+Frustrações:
+Falta de comunicação direta com a escola e dificuldades para acessar informações sobre o desempenho do filho.
+Tempo limitado para ir presencialmente à escola para reuniões e comunicados.
+Como o SGE Ajuda:
+Fornece um portal prático e acessível onde ela pode acompanhar as notas, frequência e atualizações do filho.
+Recebe notificações e comunicados pelo mural de notícias, mantendo-a informada sobre a vida escolar do filho.
+Facilita o acompanhamento sem a necessidade de deslocamento, ajustando-se à sua rotina.
+
 
 Idealizadores do projeto: José Vitor e Riquelme Santos.
