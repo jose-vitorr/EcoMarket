@@ -57,7 +57,7 @@ Notificações: Avisos sobre reuniões, entregas de boletins e eventos escolares
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Personas
+- Personas
 
 Persona 1: Maria Silva – Diretora Escolar
 
