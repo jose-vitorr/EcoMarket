@@ -29,7 +29,8 @@ Notificações: Avisos sobre reuniões, entregas de boletins e eventos escolares
 
 * A prototipação é ainda está sendo pensada se será no formato de aplicativo móvel ou web, mas de certo que terá uma interface interativa simplificada e intuitiva para o usuário.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------> Artefatos
+-----------------------------------------------------------------------------------------------------------------------
+> Artefatos
 1. [Briefing](https://github.com/jose-vitorr/SUEM/blob/main/BriefingDocument)
 2. [Pesquisa de mercado](https://github.com/jose-vitorr/SUEM/blob/main/DocPesquisaMercado)
 3. [Documento de visão de produto](https://github.com/jose-vitorr/SUEM/blob/main/DocVisaoProduto)
