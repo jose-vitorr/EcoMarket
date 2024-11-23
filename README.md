@@ -126,7 +126,8 @@ Persona 2: Carla Souza – Mãe de Aluno
 2. Recebe notificações e comunicados pelo mural de notícias, mantendo-a informada sobre a vida escolar do filho.
 3. Facilita o acompanhamento sem a necessidade de deslocamento, ajustando-se à sua rotina.
 
-
 > Idealizadores do projeto: 
 - José Vitor
 - Riquelme Santos.
+
+Feedback projeto StartComm: [AVALIAÇÃO STARTCOMM](https://drive.google.com/drive/folders/1AC7LGm6DyJ9IohEgde9sA91CH1r9POUz)
