@@ -131,3 +131,5 @@ Persona 2: Carla Souza – Mãe de Aluno
 - Riquelme Santos.
 
 Feedback projeto StartComm: [AVALIAÇÃO STARTCOMM](https://drive.google.com/drive/folders/1AC7LGm6DyJ9IohEgde9sA91CH1r9POUz)
+
+Artefatos: [Diagrama de navegação, Rabisco Frame e Flat Backlog](https://drive.google.com/drive/folders/1V5gIQFfshWfLFZUHe_HL5mjIUAB3l0Ki?usp=sharing)
