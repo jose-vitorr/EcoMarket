@@ -133,3 +133,5 @@ Persona 2: Carla Souza – Mãe de Aluno
 Feedback projeto StartComm: [AVALIAÇÃO STARTCOMM](https://drive.google.com/drive/folders/1AC7LGm6DyJ9IohEgde9sA91CH1r9POUz)
 
 Artefatos: [Diagrama de navegação, Rabisco Frame e Flat Backlog, Sprint Backlog, wireframes](https://drive.google.com/drive/folders/1V5gIQFfshWfLFZUHe_HL5mjIUAB3l0Ki?usp=sharing)
+
+[modelo entidade-relacionamento preliminar](https://drive.google.com/file/d/1n8gPB596A5zenMk8PSNweZsfSjnxDt2y/view?usp=sharing)
