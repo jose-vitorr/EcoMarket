@@ -1,7 +1,7 @@
 # Sistema Unificado da Educação Municipal
 
 - Alinhamento de ideias:
-A ideia do projeto é criar um sistema de gestão escolar escalável, sua principal função é facilitar o cotidiano dos colaborades da educação, já que o controle de alunos e demais processos fundamentais para o correto funcionamento de uma escola ainda é guaradado em pastas físicas, dificultando atividades simples como a busca de um aluno específico em meio a vasta de gama de outros arquivos.
+A ideia do projeto é criar um sistema de gestão escolar escalável, sua principal função é facilitar o cotidiano dos colaborades da educação, já que o controle de alunos e demais processos fundamentais para o correto funcionamento de uma escola é armazenado em pastas físicas, dificultando atividades simples como a busca de um aluno específico em meio a vasta gama de outros arquivos.
 
 - 1. Gerenciamento de Usuários
 Alunos: Cadastro completo com informações pessoais, série, frequência, histórico de notas, e status de aprovação.
