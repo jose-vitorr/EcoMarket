@@ -35,7 +35,15 @@ Notificações: Avisos sobre reuniões, entregas de boletins e eventos escolares
 2. [Pesquisa de mercado](https://github.com/jose-vitorr/SUEM/blob/main/DocPesquisaMercado)
 3. [Documento de visão de produto](https://github.com/jose-vitorr/SUEM/blob/main/DocVisaoProduto)
 4. [Matriz](https://github.com/jose-vitorr/SUEM/blob/main/MatrizEouNao_FazNFaz)
- 
+5. [Flat Backlog](https://docs.google.com/document/d/1lXkZMgXbV4G8t1Pc_IJjJswpJSkDFeZ8/edit?usp=sharing&ouid=100261858283422809365&rtpof=true&sd=true)
+6. [Sprint Bcklog](https://docs.google.com/document/d/1V8gFQW8K2DuIqZWaRwxwgzaSOX6da-4l3pSn0dMC9Zs/edit?usp=sharing)
+7. [modelo entidade-relacionamento preliminar](https://drive.google.com/file/d/1n8gPB596A5zenMk8PSNweZsfSjnxDt2y/view?usp=sharing)
+8. [Rabisco Frame](https://drive.google.com/file/d/1PiOgjX-IhHFBtWploOtqLfwPFfqZALlQ/view?usp=sharing)
+9. [Wire Frame]()
+10. [Diagrama de Navegação](https://docs.google.com/document/d/15eySlqhvQIHWE4UB4dv8Nl3wWNlqV5TI/edit?usp=sharing&ouid=100261858283422809365&rtpof=true&sd=true)
+
+Feedback projeto StartComm: [AVALIAÇÃO STARTCOMM](https://drive.google.com/drive/folders/1AC7LGm6DyJ9IohEgde9sA91CH1r9POUz)
+
 - CAIXA DO PRODUTO
 
 > Nome do produto
@@ -129,9 +137,3 @@ Persona 2: Carla Souza – Mãe de Aluno
 > Idealizadores do projeto: 
 - José Vitor
 - Riquelme Santos.
-
-Feedback projeto StartComm: [AVALIAÇÃO STARTCOMM](https://drive.google.com/drive/folders/1AC7LGm6DyJ9IohEgde9sA91CH1r9POUz)
-
-Artefatos: [Diagrama de navegação, Rabisco Frame e Flat Backlog, Sprint Backlog, wireframes](https://drive.google.com/drive/folders/1V5gIQFfshWfLFZUHe_HL5mjIUAB3l0Ki?usp=sharing)
-
-[modelo entidade-relacionamento preliminar](https://drive.google.com/file/d/1n8gPB596A5zenMk8PSNweZsfSjnxDt2y/view?usp=sharing)
