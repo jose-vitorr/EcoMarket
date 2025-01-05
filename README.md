@@ -42,6 +42,9 @@ Notificações: Avisos sobre reuniões, entregas de boletins e eventos escolares
 9. [Wire Frame]()
 10. [Diagrama de Navegação](https://docs.google.com/document/d/15eySlqhvQIHWE4UB4dv8Nl3wWNlqV5TI/edit?usp=sharing&ouid=100261858283422809365&rtpof=true&sd=true)
 
+> Trello
+1. [Planejamento no Trello](https://trello.com/b/wMxuyor9/projeto-de-gestao-escolar)
+
 Feedback projeto StartComm: [AVALIAÇÃO STARTCOMM](https://drive.google.com/drive/folders/1AC7LGm6DyJ9IohEgde9sA91CH1r9POUz)
 
 - CAIXA DO PRODUTO
