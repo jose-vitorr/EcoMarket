@@ -42,8 +42,9 @@ Notificações: Avisos sobre reuniões, entregas de boletins e eventos escolares
 9. [Wire Frame]()
 10. [Diagrama de Navegação](https://docs.google.com/document/d/15eySlqhvQIHWE4UB4dv8Nl3wWNlqV5TI/edit?usp=sharing&ouid=100261858283422809365&rtpof=true&sd=true)
 
-> Sprints
-[Sprint 1 + 2](https://youtu.be/0n88UztWhb8) 
+> Sprints vídeos
+1. [Sprint 1 + 2](https://youtu.be/0n88UztWhb8)
+   
 
 > Trello
 1. [Planejamento no Trello](https://trello.com/b/wMxuyor9/projeto-de-gestao-escolar)
