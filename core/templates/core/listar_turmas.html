@@ -1,0 +1,28 @@
+{% extends 'core/base.html' %}
+
+{% block title %}Listar Turmas{% endblock %}
+
+{% block content %}
+<h2>Listar Turmas</h2>
+
+<table border="1" cellpadding="10">
+    <thead>
+        <tr>
+            <th>Nome da Turma</th>
+            <th>Série</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for turma in turmas %}
+        <tr>
+            <td>{{ turma.nome }}</td>
+            <td>{{ turma.serie.nome }}</td>
+        </tr>
+        {% empty %}
+        <tr>
+            <td colspan="2">Nenhuma turma cadastrada.</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

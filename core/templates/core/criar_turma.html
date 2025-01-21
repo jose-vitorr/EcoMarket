@@ -1,0 +1,15 @@
+<h1>Criar Nova Turma</h1>
+<form method="post">
+    {% csrf_token %}
+    <label for="nome">Nome da Turma:</label>
+    <input type="text" name="nome" required><br>
+
+    <label for="serie">Série:</label>
+    <select name="serie" required>
+        {% for serie in series %}
+        <option value="{{ serie.id }}">{{ serie.nome }}</option>
+        {% endfor %}
+    </select><br>
+
+    <button type="submit">Criar Turma</button>
+</form>

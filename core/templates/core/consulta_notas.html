@@ -1,0 +1,19 @@
+<h1>Minhas Notas</h1>
+<table>
+    <thead>
+        <tr>
+            <th>Disciplina</th>
+            <th>Nota</th>
+            <th>Data</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for nota in notas %}
+        <tr>
+            <td>{{ nota.disciplina.nome }}</td>
+            <td>{{ nota.nota }}</td>
+            <td>{{ nota.data_lancamento }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>

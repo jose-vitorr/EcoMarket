@@ -1,0 +1,11 @@
+<h2>Disciplinas Disponíveis</h2>
+<ul>
+    {% for disciplina in disciplinas %}
+    <li>
+        {{ disciplina.nome }} ({{ disciplina.turma.nome }})
+        <a href="{% url 'inscrever_em_disciplina' disciplina.id %}">Inscrever-se</a>
+    </li>
+    {% empty %}
+    <li>Não há disciplinas disponíveis no momento.</li>
+    {% endfor %}
+</ul>

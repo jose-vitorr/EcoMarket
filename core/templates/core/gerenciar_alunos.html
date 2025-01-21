@@ -1,0 +1,23 @@
+<h2>Gerenciar Alunos - {{ disciplina.nome }}</h2>
+<form method="post">
+    {% csrf_token %}
+    <table>
+        <thead>
+            <tr>
+                <th>Aluno</th>
+                <th>Faltas</th>
+                <th>Nota</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for aluno in alunos %}
+            <tr>
+                <td>{{ aluno.aluno.username }}</td>
+                <td><input type="number" name="faltas_{{ aluno.id }}" value="{{ aluno.faltas }}"></td>
+                <td><input type="number" name="nota_{{ aluno.id }}" value="{{ aluno.nota }}"></td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <button type="submit">Salvar</button>
+</form>

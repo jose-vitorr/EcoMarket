@@ -1,0 +1,17 @@
+{% extends 'core/base.html' %}
+
+{% block title %}Dashboard do Aluno{% endblock %}
+
+{% block sidebar %}
+<h2>Menu</h2>
+<ul>
+    <li><a href="{% url 'listar_disciplinas_aluno' %}">Minhas Disciplinas</a></li>
+    <li><a href="{% url 'boletim' %}">Boletim</a></li>
+    <li><a href="{% url 'frequencia_aluno' %}">Frequência</a></li>
+</ul>
+{% endblock %}
+
+{% block content %}
+<h2>Bem-vindo, Aluno</h2>
+<p>Use o menu lateral para visualizar suas disciplinas, boletim e frequência.</p>
+{% endblock %}

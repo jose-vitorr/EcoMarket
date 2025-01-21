@@ -1,0 +1,22 @@
+<h1>Registrar Nota</h1>
+<form method="POST">
+    {% csrf_token %}
+    <label for="aluno">Aluno:</label>
+    <select name="aluno" id="aluno">
+        {% for aluno in alunos %}
+        <option value="{{ aluno.id }}">{{ aluno.first_name }} {{ aluno.last_name }}</option>
+        {% endfor %}
+    </select>
+    
+    <label for="disciplina">Disciplina:</label>
+    <select name="disciplina" id="disciplina">
+        {% for disciplina in disciplinas %}
+        <option value="{{ disciplina.id }}">{{ disciplina.nome }}</option>
+        {% endfor %}
+    </select>
+    
+    <label for="nota">Nota:</label>
+    <input type="number" step="0.01" name="nota" id="nota" required>
+    
+    <button type="submit">Salvar Nota</button>
+</form>

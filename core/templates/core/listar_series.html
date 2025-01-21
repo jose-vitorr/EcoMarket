@@ -1,0 +1,18 @@
+<h1>Lista de Séries</h1>
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nome</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for serie in series %}
+        <tr>
+            <td>{{ serie.id }}</td>
+            <td>{{ serie.nome }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+<a href="{% url 'criar_serie' %}">Criar Nova Série</a>

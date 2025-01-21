@@ -1,0 +1,22 @@
+<h1>Criar Nova Disciplina</h1>
+<form method="post">
+    {% csrf_token %}
+    <label for="nome">Nome da Disciplina:</label>
+    <input type="text" name="nome" required><br>
+
+    <label for="turma">Turma:</label>
+    <select name="turma" required>
+        {% for turma in turmas %}
+        <option value="{{ turma.id }}">{{ turma.serie.nome }} - {{ turma.nome }}</option>
+        {% endfor %}
+    </select><br>
+
+    <label for="professor">Professor:</label>
+    <select name="professor" required>
+        {% for professor in professores %}
+        <option value="{{ professor.id }}">{{ professor.username }}</option>
+        {% endfor %}
+    </select><br>
+
+    <button type="submit">Criar Disciplina</button>
+</form>

@@ -1,0 +1,19 @@
+<h1>Minha Frequência</h1>
+<table>
+    <thead>
+        <tr>
+            <th>Disciplina</th>
+            <th>Data</th>
+            <th>Presença</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for frequencia in frequencias %}
+        <tr>
+            <td>{{ frequencia.disciplina.nome }}</td>
+            <td>{{ frequencia.data }}</td>
+            <td>{{ "Presente" if frequencia.presente else "Ausente" }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>

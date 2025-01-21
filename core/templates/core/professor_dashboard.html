@@ -1,0 +1,17 @@
+{% extends 'core/base.html' %}
+
+{% block title %}Dashboard do Professor{% endblock %}
+
+{% block sidebar %}
+<h2>Menu</h2>
+<ul>
+    <li><a href="{% url 'listar_disciplinas_professor' %}">Minhas Disciplinas</a></li>
+    <li><a href="{% url 'frequencia' %}">Gerenciar Frequência</a></li>
+    <li><a href="{% url 'notas' %}">Gerenciar Notas</a></li>
+</ul>
+{% endblock %}
+
+{% block content %}
+<h2>Bem-vindo, Professor</h2>
+<p>Use o menu lateral para acessar suas disciplinas e gerenciar frequência e notas dos alunos.</p>
+{% endblock %}

@@ -1,0 +1,21 @@
+<h2>Minhas Disciplinas</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Disciplina</th>
+            <th>Faltas</th>
+            <th>Frequência</th>
+            <th>Nota</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for inscricao in inscricoes %}
+        <tr>
+            <td>{{ inscricao.disciplina.nome }}</td>
+            <td>{{ inscricao.faltas }}</td>
+            <td>{{ inscricao.frequencia }}%</td>
+            <td>{{ inscricao.nota }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Sistema de Gestão Escolar{% endblock %}</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao Sistema de Gestão Escolar</h1>
+        <nav>
+            <a href="{% url 'diretor_dashboard' %}">Dashboard</a>
+            <a href="{% url 'logout' %}">Sair</a>
+        </nav>
+    </header>
+    <main>
+        <section id="sidebar">
+            {% block sidebar %}{% endblock %}
+        </section>
+        <section id="content">
+            {% block content %}{% endblock %}
+        </section>
+    </main>
+</body>
+</html>
